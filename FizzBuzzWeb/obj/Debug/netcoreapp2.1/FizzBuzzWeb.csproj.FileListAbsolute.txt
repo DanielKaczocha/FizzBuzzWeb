@@ -1,0 +1,14 @@
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\bin\Debug\netcoreapp2.1\FizzBuzzWeb.deps.json
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\bin\Debug\netcoreapp2.1\FizzBuzzWeb.runtimeconfig.json
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\bin\Debug\netcoreapp2.1\FizzBuzzWeb.runtimeconfig.dev.json
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\bin\Debug\netcoreapp2.1\FizzBuzzWeb.dll
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\bin\Debug\netcoreapp2.1\FizzBuzzWeb.pdb
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.csprojAssemblyReference.cache
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.RazorAssemblyInfo.cache
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.RazorAssemblyInfo.cs
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.AssemblyInfoInputs.cache
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.AssemblyInfo.cs
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.dll
+D:\Visual Studio\Moje Projekty\FizzBuzzWeb\FizzBuzzWeb\obj\Debug\netcoreapp2.1\FizzBuzzWeb.pdb
